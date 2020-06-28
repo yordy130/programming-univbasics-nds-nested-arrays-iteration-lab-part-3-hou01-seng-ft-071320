@@ -1,5 +1,5 @@
 def join_nested_strings(src)
- mix_data = []
+ mix_data = " "
  index = 0 
  while index < src.count do
    element_index = 0 
