@@ -6,6 +6,7 @@ def join_nested_strings(src)
    while element_index < src[index].count do
      if src[index][element_index] == String
      mix_data == src[index][element_index]
+     end
      element_index += 1
    end
    index += 1 
